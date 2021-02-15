@@ -11,7 +11,6 @@ The wrist sensor system (WSS) is a highly portable and wearable device. WSS will
 - Insight into working principle
 - V1.0
 - Future work
-- Considerations
 ##
 
 ### Motivation:
@@ -19,15 +18,16 @@ The concept of the wrist sensor system came about because of apparent lacks Covi
 
 ##
 ### Insight into working principle:
-
+The wrist sensor system is capable of detecting Covid-19 by measuring human breath with gas sensors. Since the initial spread of Covid-19 in the US, there has been a considerable amount of research into specific biomarkers exhibited by patients with Covid-19. These biomarkers exist in very low quantities (ppm - ppb) and thus, highly sensitive gas sensors are required.
 
 ##
 ### V1.0:
-
+Version 1 was mainly a learning excercise to gain practice with designing a wearable device and includes the following sensors and capabilities:
+- gas sensor (Biomarker detection)
+- Temperature sensor
+- Wireless transmitter (Data tranmission)
+- OLED screen (Data display)
 
 ##
 ### Future work:
 While the focus of the wrist sensor system now is to be a prognosis tool for detecting diseases, the platform is highly modifiable and there are plans to use it for other interesting non-health related applications.
-
-##
-### Considerations:
