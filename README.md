@@ -23,6 +23,8 @@ The wrist sensor system is capable of detecting Covid-19 by measuring human brea
 ##
 ### V1.0:
 Version 1 was mainly a learning excercise to gain practice with designing a wearable device consisting of two boards and includes the following sensors and capabilities:
+
+*Board 1 sensors and capabilities:*
 - gas sensor (Biomarker detection)
 - Temperature sensor
 - Wireless transmitter (Data tranmission)
