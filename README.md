@@ -32,8 +32,8 @@ Version 1 was designed from scratch and was mainly a learning excercise to gain 
 - Microcontroller
 
 **Board 2 sensors and capabilities:**
-- LiPo voltage boosting circuit
-- LiPo recharging circuit
+- Voltage boosting circuit
+- Recharging circuit
 
 ##
 ### Future work:
