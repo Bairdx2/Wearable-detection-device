@@ -9,8 +9,25 @@ The wrist sensor system (WSS) is a highly portable and wearable device. WSS will
 ## Table of Contents:
 - Motivation
 - Insight into working principle
+- V1.0
 - Future work
 - Considerations
 ##
 
 ### Motivation:
+
+
+##
+### Insight into working principle:
+
+
+##
+### V1.0:
+
+
+##
+### Future work:
+
+
+##
+### Considerations:
