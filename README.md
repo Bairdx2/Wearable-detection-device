@@ -31,7 +31,7 @@ Version 1 was designed from scratch and was mainly a learning excercise to gain 
 - OLED screen (Data display)
 - Microcontroller
 
-**Board 2 sensors and capabilities:**
+**Board 2 capabilities:**
 - Voltage boosting circuit
 - Recharging circuit
 
